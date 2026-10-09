@@ -1,0 +1,14 @@
+# 家档（Arke）— 专有软件许可声明
+
+Copyright © 2026 ethanxu9527. All rights reserved.
+
+本仓库源代码为**专有（闭源）软件**，未经版权所有者书面许可：
+
+- 禁止复制、修改、再分发本源码及其衍生作品（含二进制构建产物）；
+- 禁止将其用于任何商业或非商业用途；
+- 保留一切权利。
+
+第三方素材许可：
+
+- `assets/fonts/IntelOneMono-*.ttf` 与 `assets/fonts/OFL.txt` — SIL Open Font License 1.1（版权归 Intel One Mono 项目作者，见同目录 OFL.txt）；
+- 依赖库许可以 `pubspec.yaml` 所列各包自身的许可证为准。
